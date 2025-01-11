@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrayKin
+- 👋 Hi, I’m @GrayKim
 - 👀 I’m interested in filtering theory.
 - 🌱 I’m currently learning Kalman Filter in non-Gaussian noise.
 - 💞️ I’m looking to collaborate on filtering.
